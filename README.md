@@ -6,3 +6,6 @@ Programa de gestión de vehículos pensado como auxiliar para la administración
 
 >[!NOTE]
 >Debido a algunos usos de clases tipo virtuales (como en el caso de VEHICULO.h y AUTO_MOTO.h) para el caso de reescribir los datos de la misma, en la terminal se indica que se requiere una extensión de C++11...
+
+>[!IMPORTANT]
+>Como se usan dos archivos .cpp para la compilación del código, se debe de usar el comando: g++ -std=c++11 MainP.cpp Vehiculo.cpp -o mi_programa
