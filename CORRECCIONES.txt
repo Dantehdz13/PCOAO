@@ -1,0 +1,1 @@
+CORRECCIONES:Avance 2-CREACIÓN DE DIAGRAMA DE CLASES:* El archivo no era visible a causa de sus propiedades. Se adjuntó una imagen “Diagrama_de_clases.png” para poder visualizar el archivo correctamente. Avance 3-INTEGRACIÓN DE HERENCIA, AGREGACIÓN Y COMPOSICIÓN:* Se corrigieron sintaxis y organización general para coincidir con los estándares solicitados.
